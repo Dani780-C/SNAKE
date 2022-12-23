@@ -27,7 +27,7 @@ Now let me tell you about the difficulties:
 
 At `difficulty 1`, it's the original snake game where you have to eat as much food as possible to grow and score points. You'll see, you'll grow quickly and it won't seem so simple, that's why I fixed a time of 35 seconds in which you have to resist to advance to the next difficulty.  
 On `difficulty 2`, the food on the matrix has a life time of 2 seconds, so be alert for another 35 seconds to eat as much as you can.  
-There will be another 35 seconds of `difficulty 3` in which you will have 2 obstacles. Does it seem hard to get here? Let me tell you about the difficulty 4 in which you have to have 2 obstacles and the life of the food is 2 seconds. You draw the conclusion whether it is difficult or not now.  
+There will be another 35 seconds of `difficulty 3` in which you will have 2 obstacles. Does it seem hard to get here? Let me tell you about the `difficulty 4` in which you have to have 2 obstacles and the life of the food is 2 seconds. You draw the conclusion whether it is difficult or not now.  
 
 At difficulty 1 the score increases by 1 for each piece of food eaten, at difficulty 2 it will increase by 2, at difficulty 3 it will increase by 3 and at difficulty 4 by 4.  
 
