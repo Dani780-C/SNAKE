@@ -60,8 +60,8 @@ You will only lose if you collide with yourself or obstacles, so you will have t
 
 ### Video 
 
-[Watch a video on youtube with the presentation of the project]()
+Watch a video on [YouTube]() with the presentation of the project.
 
 ### Code
 
-[Code is right here!](https://github.com/Dani780-C/SNAKE/blob/main/snake.ino)  
+[Code](https://github.com/Dani780-C/SNAKE/blob/main/snake.ino) is right here!
