@@ -60,7 +60,8 @@ You will only lose if you collide with yourself or obstacles, so you will have t
 
 ### Video 
 
-Watch a video on [YouTube]() with the presentation of the project.
+Watch a video on [YouTube](https://www.youtube.com/watch?v=KIIQxqCgpBI) with the presentation of the project.  
+This is how the game looks in the 4 levels of difficulty. [Watch this.](https://www.youtube.com/watch?v=0hMBwRklFFs)  
 
 ### Code
 
